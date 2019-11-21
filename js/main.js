@@ -30,7 +30,7 @@ window.onload = function() {
     animateprogress(".css",86);
     animateprogress(".python",85);
     animateprogress(".javascript",79);
-    animateprogress(".nodejs",36);
+    animateprogress(".nodejs",70);
     animateprogress(".nodejs1",75);
     animateprogress(".nodejs2",30);
     animateprogress(".nodejs3",60);
