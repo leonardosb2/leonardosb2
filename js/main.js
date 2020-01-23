@@ -27,13 +27,13 @@ window.onload = function() {
     
     animateprogress(".html5",91);
     animateprogress(".php",72);
-    animateprogress(".css",86);
-    animateprogress(".python",85);
-    animateprogress(".javascript",79);
+    animateprogress(".css",100);
+    animateprogress(".python",100);
+    animateprogress(".javascript",90);
     animateprogress(".nodejs",70);
     animateprogress(".nodejs1",75);
     animateprogress(".nodejs2",30);
-    animateprogress(".nodejs3",60);
+    animateprogress(".nodejs3",85);
     
 } 	
 document.querySelector (".boton").addEventListener ("click", function() { 
