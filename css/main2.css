@@ -877,3 +877,8 @@ progress::-webkit-progress-bar {
     list-style: disc;
 }
 /* =============================NEW END========================================== */
+
+
+.css-all{
+    text-transform: uppercase;
+}
