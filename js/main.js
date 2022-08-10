@@ -25,22 +25,22 @@ $(document).ready(function(){
 
 window.onload = function() { 
     
-    animateprogress(".html5",91);
-    animateprogress(".php",72);
-    animateprogress(".css",100);
-    animateprogress(".python",100);
-    animateprogress(".javascript",90);
-    animateprogress(".nodejs",70);
+    animateprogress(".html5",99);
+    animateprogress(".php", 80);
+    animateprogress(".css",99);
+    animateprogress(".python",99);
+    animateprogress(".javascript",70);
+    animateprogress(".nodejs",100);
     animateprogress(".nodejs1",75);
-    animateprogress(".nodejs2",30);
-    animateprogress(".nodejs3",85);
+    animateprogress(".nodejs2",50);
+    animateprogress(".nodejs3",90);
     
 } 	
 document.querySelector (".boton").addEventListener ("click", function() { 
     animateprogress(".html5",91);
     animateprogress(".php",72);
     animateprogress(".css",86);
-    animateprogress(".python",52);
+    animateprogress(".python",90);
     animateprogress(".javascript",79);
     animateprogress(".nodejs",36);
 
