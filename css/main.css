@@ -296,7 +296,7 @@ p {
     left: 0;
 }
 header {
-    padding: 50px;
+    padding: 30px;
     background: #24263c;
     width: 35%;
 }
@@ -349,7 +349,7 @@ header .intro-exp .contact p {
 .section-exp {
     background: #24263c;
     width: 60%;
-    padding: 0 35px 50px;
+    padding: 0 30px 30px;
 }
 .section-exp .work-exp {
     padding: 40px 0;
